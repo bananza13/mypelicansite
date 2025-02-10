@@ -15,7 +15,7 @@ jobs:
 
     - name: Set up Python
       uses: actions/setup-python@v5.4.0  # Устанавливаем Python
-name: Deploy Pelican site to GitHub Pages
+    - name: Deploy Pelican site to GitHub Pages
 
     - name: Install dependencies
       run: |
