@@ -1,7 +1,7 @@
 AUTHOR = 'Alexander Osipov'
 SITENAME = 'My site'
 SITEURL = ""
-
+THEME = 'waterspill'
 PATH = "content"
 
 TIMEZONE = 'Europe/Rome'
