@@ -3,7 +3,7 @@
 /* *** General Styles *** */
 
 body  {
-	background: url(../static/images/background.jpg);
+	background: url(../images/background.jpg);
 	color: #293331;
 	font: 13px Georgia, "Times New Roman", Times, serif;
 	text-align: center;
@@ -36,7 +36,7 @@ h3 {
 }
 
 blockquote {
-	background: url(../static/images/body.gif) top left repeat-y;
+	background: url(../images/body.gif) top left repeat-y;
 	font-size: 14px;
 	font-style: italic;
 	padding: 5px 0 5px 30px;
@@ -51,20 +51,20 @@ ol {
 /* *** Layout *** */
 
 #container { 
-	background: url(../static/images/spill.gif) no-repeat top right;
+	background: url(../images/spill.gif) no-repeat top right;
 	margin: 0 auto;
 	text-align: left;
 	width: 780px;
 } 
 
 #header { 
-	background: url(../static/images/header.gif) no-repeat;
+	background: url(../images/header.gif) no-repeat;
 	height: 109px;
 	padding: 0 10px 0 20px;
 } 
 
 #topMenu {
-	background: url(../static/images/menubar.gif) no-repeat;
+	background: url(../images/menubar.gif) no-repeat;
 	height: 48px;
 }
 
@@ -76,12 +76,12 @@ ol {
 }
 
 #mainContent {
-	background: url(../static/images/body.gif) repeat-y;
+	background: url(../images/body.gif) repeat-y;
 	padding: 20px 250px 10px 40px;
 } 
 
 #footer { 
-	background: url(../static/images/bottom.gif) no-repeat;
+	background: url(../images/bottom.gif) no-repeat;
 	font-size: 12px;
 	height: 70px;
 	padding: 0 10px 0 20px;
@@ -120,7 +120,7 @@ ol {
 }
 
 #topMenu a:hover {
-	background: url(../static/images/hr.gif) center center no-repeat;
+	background: url(../images/hr.gif) center center no-repeat;
 }
 
 /* *** Blog Styles *** */
@@ -145,7 +145,7 @@ ol {
 }
 
 .blogItem h3 {
-	background: url(../static/images/hr.gif) bottom left no-repeat;
+	background: url(../images/hr.gif) bottom left no-repeat;
 	font-size: 14px;
 	padding-bottom: 6px;
 }
@@ -184,7 +184,7 @@ ol {
 }
 
 .commentSep {
-	background: url(../static/images/hr.gif) bottom left no-repeat;
+	background: url(../images/hr.gif) bottom left no-repeat;
 }
 
 /* *** Footer Styles *** */
