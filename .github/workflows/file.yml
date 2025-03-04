@@ -25,7 +25,11 @@ jobs:
 
       - name: Build site
         run: pelican content -s pelicanconf.py
-
+        
+      - name: Replace text in index.html
+        run: |
+          sed -i 's//Новый текст/g' output/index.html
+          
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
