@@ -1,6 +1,6 @@
 AUTHOR = 'Alexander Osipov'
 SITENAME = 'My site'
-SITEURL = ""
+SITEURL = "https://bananza13.github.io/mypelicansite/"
 THEME = 'waterspill'
 PATH = "content"
 
