@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>My site - Blog</title><link href="https://bananza13.github.io/mypelicansite/" rel="alternate"></link><link href="https://bananza13.github.io/mypelicansite/feeds/blog.atom.xml" rel="self"></link><id>https://bananza13.github.io/mypelicansite/</id><updated>2023-10-01T00:00:00+02:00</updated><entry><title>My First Post</title><link href="https://bananza13.github.io/mypelicansite/my-first-post.html" rel="alternate"></link><published>2023-10-01T00:00:00+02:00</published><updated>2023-10-01T00:00:00+02:00</updated><author><name>Alexander Osipov</name></author><id>tag:bananza13.github.io,2023-10-01:/mypelicansite/my-first-post.html</id><content type="html">&lt;p&gt;This is my first post! ХЕЛЛО
-МИН ААТЫМ САША!!!
-ХОРОШЕГО ВСЕМ ДНЯ!
-У МЕНЯ ПОЛУЧИЛОСЬ!&lt;/p&gt;</content><category term="Blog"></category></entry></feed>
