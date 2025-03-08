@@ -1,5 +1,5 @@
 AUTHOR = 'Alexander Osipov'
-SITENAME = 'WWII Planes from Romania'
+SITENAME = 'WWII Planes'
 SITEURL = "https://bananza13.github.io/mypelicansite/"
 THEME = 'waterspill'
 PATH = "content"
